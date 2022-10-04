@@ -8,7 +8,7 @@ You get:
 * /Frames/CoFro_Engine/EngineSpriteXXXX.png - An engine glow sprite with alpha transparency
 * /Frames/Nova_Engine/EngineSpriteXXXX.png - A engine glow sprite with a black background and no transparency
 * /Frames/Nova_EngineMasks/EngineMaskXXXX.png - A black and white mask for use with your non-transparent engine glow sprite
-* /Frames/CoFro_Lights/LightsSpriteXXXX.png - An running lights sprite with alpha transparency
+* /Frames/CoFro_Lights/LightsSpriteXXXX.png - A running lights sprite with alpha transparency
 * /Frames/Nova_Lights/LightsSpriteXXXX.png - A running lights sprite with a black background and no transparency
 * /Frames/Nova_LightsMasks/LightsMaskXXXX.png - A black and white mask for use with your non-transparent running lights sprite
 * /Frames/Composite/CompositeXXXX.png - A composite of all three layers with black background and no transparency
