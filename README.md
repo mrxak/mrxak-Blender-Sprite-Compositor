@@ -1,4 +1,13 @@
 # mrxak's Blender Sprite Compositor
+
+## Compatible Blender Versions
+
+Currently only tested to work up to Blender 3.6 LTS. This tool does not fully work with Blender 4.0 and later. It is recommend you use Blender 3.6 LTS for the time being when working with this tool for sprite renders. I intend to eventually release a newer version of this tool for Blender 4.x and later once I have figured out how to fix the problems and make use of newer Blender features like light linking.
+
+You can always get [Blender 3.6.x](https://download.blender.org/release/Blender3.6/) for your system, [or older versions](https://www.blender.org/download/previous-versions/), from the Blender website.
+
+## How to Use
+
 This .blend file has a complete compositing pipeline for generating sprites for EV Nova and Cosmic Frontier. Model your ships in this .blend file (or import them) and you will be able to get all the necessary sprites and masks with a single render pass.
 
 You get:
